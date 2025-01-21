@@ -1,5 +1,5 @@
--- Vers 1.0.3 Test
+-- Vers 1.0.4 Test
 while true do
-    print("Sent from github, program version 1.0.3")
+    print("Speed Test!")
     sleep(5)
 end
