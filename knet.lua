@@ -1,5 +1,8 @@
--- Vers 1.0.5 Test
+-- 1.0.6
+
+print("Special characters: !@#$%^&*()[]{}<>?~\\|")
+print("Whitespace and escape sequences:\n\t\\ \" \' ")
 while true do
-    print("Speed Test!")
+    print("Looping...")
     sleep(5)
 end
